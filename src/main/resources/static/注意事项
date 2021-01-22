@@ -1,0 +1,12 @@
+div.copyright-basemap {
+    color: #AD8760;
+    text-align: justify;
+    background: url(http://book.img.ireader.com/group61/M00/4B/8D/CmQUOF9WJ6CED2feAAAAAKvlTyg402652047.jpg?v=G291G7XJ&t=CmQUOF9WJ6A.);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+
+    background: url(http://book.img.ireader.com/group61/M00/4B/8D/CmQUOF9WJ6CED2feAAAAAKvlTyg402652047.jpg?v=G291G7XJ&t=CmQUOF9WJ6A.);
+
+    这样会报错：t必须以; 结尾

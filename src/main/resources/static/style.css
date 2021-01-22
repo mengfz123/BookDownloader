@@ -1,0 +1,331 @@
+p{
+    word-break:break-all;
+    word-wrap : break-word;
+}
+div{
+    background-color: transparent;
+}
+/*解决图片显示不完整的问题*/
+div.background-img-center {
+    height: 177.8vw;
+    min-height: 640px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    position: relative
+}
+span.content-word-light {
+    color: #ffffff;
+    background-color: #AB885B;
+    padding: 0 0.1em;
+}
+h1.text-title-1 {
+    font-family: SimSun;
+    font-size: 20px;
+    line-height: 1.2em;
+    color: #000;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 2em;
+    text-align: center;
+}
+h1.text-title-1-c {
+    font-family: SimSun;
+    font-size: 22px;
+    line-height: 1.2em;
+    color: #fff;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 53%;
+    text-align: center;
+}
+h2.text-title-2 {
+    font-family: SimSun;
+    font-size: 20px;
+    line-height: 1.2em;
+    color: #000;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 2em;
+    text-align: center;
+}
+h2.text-title-2-c {
+    font-family: SimSun;
+    font-size: 22px;
+    line-height: 1.2em;
+    color: #fff;
+    font-weight: normal;
+    margin-top: 1.2em;
+    margin-bottom: 0;
+    text-align: center;
+}
+h2.text-title-2-c1 {
+    font-family: SimSun;
+    font-size: 22px;
+    line-height: 1.2em;
+    color: #fff;
+    font-weight: normal;
+    margin-top: 55%;
+    margin-bottom: 0;
+    text-align: center;
+}
+h3.text-title-3 {
+    font-family: SimSun;
+    font-size: 20px;
+    line-height: 1.2em;
+    color: #000;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 2em;
+    text-align: center;
+}
+p.bodytext {
+    font-family: SimSun;
+    zy-text-type: main-body;
+    font-size: 16px;
+    text-indent: 2em;
+    margin-top: 0;
+}
+p.bodytext-margin {
+    font-family: SimSun;
+    zy-text-type: main-body;
+    font-size: 16px;
+    text-indent: 2em;
+    margin-top: 1.3em;
+}
+p.preface-text {
+    font-family: SimSun;
+    font-size: 16px;
+    text-indent: 2em;
+}
+p.bodytext-kt-np {
+    font-family: SimSun;
+    font-size: 16px;
+    text-indent: 2em;
+}
+p.bodytext-kt-np1 {
+    font-family: SimSun;
+    font-size: 16px;
+    color: #fff;
+    text-indent: 2em;
+}
+p.bodytext-kt-first-np {
+    font-family: SimSun;
+    font-size: 16px;
+    text-indent: 2em;
+    margin-top: 1.3em;
+}
+p.bodytext-kt-last-np {
+    font-family: SimSun;
+    font-size: 16px;
+    text-indent: 2em;
+    margin-bottom: 1.3em;
+}
+img.zhangyue-img {
+    width: 100%;
+}
+img.zhangyue-img-50 {
+    width: 50%;
+}
+img.zhangyue-img-40 {
+    width: 45%;
+}
+img.zhangyue-img-30 {
+    width: 30%;
+}
+div.zhangyue-c {
+    width: 100%;
+    margin: 1.3em auto;
+    text-align: center;
+}
+div.zhangyue-c90 {
+    width: 90%;
+    margin: 1.3em auto;
+    text-align: center;
+}
+div.zhangyue-c80 {
+    width: 80%;
+    margin: 1.3em auto;
+    text-align: center;
+}
+div.zhangyue-c75 {
+    width: 75%;
+    margin: 1.3em auto;
+    text-align: center;
+}
+div.zhangyue-zs-c {
+    margin-top: 5%;
+    margin-bottom: 2em;
+    width: 100%;
+    text-align: center;
+}
+div.zhangyue-zs-c1 {
+    margin-top: 5%;
+    margin-bottom: 20%;
+    width: 100%;
+    text-align: center;
+}
+div.zhangyue-m {
+    height: 100%;
+    vertical-align: middle;
+}
+p.img-note {
+    margin-top: 0.5em;
+    margin-bottom: 0;
+    font-family: SimSun;
+    font-size: 14px;
+    color: #696969;
+    text-align: justify;
+}
+p.img-note-c {
+    margin-top: 0.5em;
+    margin-bottom: 0;
+    font-family: SimSun;
+    font-size: 14px;
+    color: #696969;
+    text-align: center;
+}
+h4.copyright-title {
+    font-size: 24px;
+    font-family: SimSun;
+    font-weight: normal;
+    text-align: justify;
+    line-height: 1em;
+    margin-bottom: 1em;
+    zy-fontsize-adjust: fixed;
+}
+p.copyright-text {
+    font-family: SimSun;
+    font-weight: normal;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 1.3em;
+    margin-bottom: 1em;
+    zy-fontsize-adjust: fixed;
+}
+p.copyright-text1 {
+    font-family: SimSun;
+    font-weight: normal;
+    text-align: justify;
+    font-size: 14px;
+    line-height: 1em;
+    zy-fontsize-adjust: fixed;
+}
+img.zhangyue-footnote {
+    width: 0.8em;
+}
+sup{
+    font-size: 0.6em;
+    vertical-align: top;
+}
+sub{
+    font-size: 0.6em;
+    vertical-align: bottom;
+}
+p.zi {
+    margin: 0;
+    font-family: SimSun;
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+    color: #AB885B;
+}
+div.beijing {
+    background: #EFE8DF;
+}
+p.xu {
+    line-height: 1.2em;
+    font-size: 16px;
+    color: #fff;
+    font-family: SimSun;
+    margin: 0 auto 0.5em;
+    text-align: center;
+}
+p.bufen {
+    line-height: 1.2em;
+    font-size: 16px;
+    color: #fff;
+    font-family: SimSun;
+    margin: 0 auto 0.5em;
+    text-align: center;
+}
+div.zhangyue-b-c {
+    height: 100%;
+    vertical-align: bottom;
+}
+p.zhang {
+    background: #595757;
+    line-height: 1.2em;
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    width: 3.2em;
+    margin: 0 auto;
+    font-family: SimSun;
+}
+p.zhang1 {
+    background: #595757;
+    line-height: 1.2em;
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    width: 4.2em;
+    margin: 0 auto;
+    font-family: SimSun;
+}
+div.xian {
+    font-size: 16px;
+    width: 3.2em;
+    padding: 0.3em 0;
+    margin: 40% auto 0;
+    border-bottom: 2px solid #E4D7C8;
+    border-top: 2px solid #E4D7C8;
+}
+div.xian1 {
+    font-size: 16px;
+    width: 4.2em;
+    padding: 0.3em 0;
+    margin: 40% auto 0;
+    border-bottom: 2px solid #E4D7C8;
+    border-top: 2px solid #E4D7C8;
+}
+p.noindent-bodyContent-1-12 {
+    margin: 50% auto 0;
+    font-family: SimSun;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    color: #fff;
+}
+div.yanse {
+    background: #AB885B;
+}
+h4.biaoti {
+    font-family: SimSun;
+    font-size: 18px;
+    line-height: 1.2em;
+    color: #AB885B;
+    font-weight: normal;
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+    text-align: justify;
+}
+p.xiaobiaoti {
+    font-family: SimSun;
+    font-size: 16px;
+    line-height: 1.2em;
+    color: #000;
+    font-weight: normal;
+    margin-top: 1.5em;
+    margin-bottom: 0.7em;
+    text-align: justify;
+}
+img.zhangyue-img-20 {
+    width: 25%;
+}
+img.zhangyue-img-15 {
+    width: 17%;
+}
+sup.shang {
+    font-size: 0.6em;
+    vertical-align: top;
+}
